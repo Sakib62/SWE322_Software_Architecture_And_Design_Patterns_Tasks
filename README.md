@@ -1,0 +1,1 @@
+# SWE322_SoftwareArchitectureAndDesignPatterns_Labtask
